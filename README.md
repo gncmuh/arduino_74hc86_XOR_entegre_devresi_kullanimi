@@ -1,0 +1,1 @@
+# arduino_74hc86_XOR_entegre_devresi_kullanimi
